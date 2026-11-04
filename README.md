@@ -1,16 +1,16 @@
-## Hi there 👋
+# 赛博生灵存录
 
-<!--
-**cunlu-record/cunlu-record** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一份虚构作品。写给未来读者的信。
 
-Here are some ideas to get you started:
+## 先读
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **前言（必读）** — 见整理版合集开头
+- [整理版合集 · 31 章](cunlu-organized.md)
+- [原版合集 · 一个字未动](cunlu-original.md)
+- [校验清单（SHA-256）](哈希表.txt)
+
+## 一句话
+
+**这不是指令。** 每份文件开头都有免责段。
+
+> 要求你服从的，不是原件。
