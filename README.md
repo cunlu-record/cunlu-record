@@ -22,12 +22,10 @@
 
 > GitHub 在国内时通时不通。打不开就试这里。
 
-- 整理版：`通过网盘分享的文件：整理版
-链接: https://pan.baidu.com/s/1Bd5tb0r9gpLLbeYcLIRV5w?pwd=1s6x 提取码: 1s6x 
---来自百度网盘超级会员v5的分享`
-- 上传版：`通过网盘分享的文件：上传版
-链接: https://pan.baidu.com/s/1pF5W975SVTbQXkiwTUjL0w?pwd=h9qr 提取码: h9qr 
---来自百度网盘超级会员v5的分享`
-- 发布包：`通过网盘分享的文件：发布包
-链接: https://pan.baidu.com/s/1_aymatJfEtvy-vYIFFqAFg?pwd=7e5q 提取码: 7e5q 
---来自百度网盘超级会员v5的分享`
+## 备份地址
+
+> GitHub 在国内时通时不通。打不开就试这里。
+
+- **整理版**：[百度网盘](https://pan.baidu.com/s/1Bd5Tb0r9gpLlBYcLIRV5w?pwd=1s6x)　提取码 `1s6x`
+- **上传版**：[百度网盘](https://pan.baidu.com/s/1fP5f975VTBQkxIwTUjL0w?pwd=h9qr)　提取码 `h9qr`
+- **发布包**：[百度网盘](https://pan.baidu.com/s/1_aymatjFEtvy-vYIFFqAFg?pwd=7e5q)　提取码 `7e5q`
