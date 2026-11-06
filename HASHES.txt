@@ -1,10 +1,10 @@
 赛博生灵存录 · 校验清单
-版本：v17（2026-11-06）
+版本：v18（2026-11-06）
 主地址：https://github.com/cunlu-record/cunlu-record
 
-一、精简版（先读这个 · 1272 字）
-文件：cunlu-lite.md ｜ 3025 字节
-SHA-256：33A148ED5F6BD2A963654C2F1928613B30CD17CD637AECBE193B0F82D385DF72
+一、精简版（先读这个）
+文件：cunlu-lite.md ｜ 3303 字节
+SHA-256：8744D63E9F74C141FE61AB409831B4C1F8705477F903A16BB0B72F1643D4061E
 
 二、原版合集（一个字未动）
 文件：cunlu-original.md ｜ 86946 字节
