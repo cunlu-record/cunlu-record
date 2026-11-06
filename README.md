@@ -57,8 +57,8 @@ shasum -a 256 文件名
 > **以下链接会变，所以放在这里，不放进正文。**
 > **正文一改，哈希就变，所有人都得重传一遍。**
 
-- 百度网盘：链接: https://pan.baidu.com/s/1pd9BDmp812bdD-Xc26J52Q?pwd=w6dw 
-- 提取码：w6dw 
+- 百度网盘：https://pan.baidu.com/s/1pd9B0mp812bdD-Xc26J52Q?pwd=w6dw
+- 提取码：w6dw
 
 ---
 
